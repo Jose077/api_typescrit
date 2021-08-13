@@ -1,2 +1,2 @@
 # api_typescrit
-Projeto para aprendizado do typscript
+Projeto para aprendizado do typescript
