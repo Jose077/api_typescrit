@@ -1,2 +1,2 @@
-# api_typscrit
+# api_typescrit
 Projeto para aprendizado do typscript
